@@ -2,7 +2,7 @@
 # Övnings repo 
 *detta repo är för en övning i github*
 
-# Sample Mermaid diagrams, for more details:
+# Sample Mermaid diagrams, for more details edittttt:
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 
 
